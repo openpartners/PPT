@@ -5,3 +5,4 @@ Practice Programming Techniques
 2. Reversing the Words in a String
 3. Mapping Array Data - Using Zip and Splat
 4. Generate an Array of Random Numbers
+5. Find MAX in an array
