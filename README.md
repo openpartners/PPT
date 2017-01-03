@@ -7,3 +7,4 @@ Practice Programming Techniques
 4. Generate an Array of Random Numbers
 5. Find MAX in an array
 6. Create an Immutable Array
+7. Word Counting and Reporting
