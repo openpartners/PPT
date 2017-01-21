@@ -9,3 +9,4 @@ Practice Programming Techniques
 6. Create an Immutable Array
 7. Word Counting and Reporting
 8. Finding Leap Years
+9. Build a Multiplication Table Generator
