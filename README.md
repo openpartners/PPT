@@ -10,3 +10,4 @@ Practice Programming Techniques
 7. Word Counting and Reporting
 8. Finding Leap Years
 9. Build a Multiplication Table Generator
+10. Build a Tip Calculator
