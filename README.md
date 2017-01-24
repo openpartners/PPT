@@ -11,3 +11,4 @@ Practice Programming Techniques
 8. Finding Leap Years
 9. Build a Multiplication Table Generator
 10. Build a Tip Calculator
+11. Blocks in Ruby
